@@ -1,4 +1,4 @@
-Salahuddin Yunus
+Sal Yunus
 
 Python Battleship Game (v1.0)
 
